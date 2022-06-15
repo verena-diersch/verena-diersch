@@ -1,6 +1,6 @@
 ### Hi, I'm Verena 👋
 
-- 🔭 I’m currently working on a deeper understanding of Python code
+- 🔭 I’m currently working on an analysis of my poetry with Python
 - 🌱 I’m currently learning how to bring the Yoga way of life into my work
 - 👯 I’m looking to collaborate on fun projects (always!)
 - 🤔 I’m looking for help with creative ideas for data projects
