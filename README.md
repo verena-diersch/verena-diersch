@@ -7,4 +7,4 @@
 - 💬 Ask me about data analysis with Python and SQL
 - 📫 How to reach me: verena.diersch@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I am obsessed with dogs
+- ⚡ Fun fact: I am a frequent meditator
