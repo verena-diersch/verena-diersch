@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with new ways to visualize data, e.g. with ipyvizzu 
 - 💬 Ask me about data analysis with Python and SQL
 - 📫 How to reach me: verena.diersch@gmail.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: I'd prefer no pronouns
 - ⚡ Fun fact: I love mindfulness and meditation
